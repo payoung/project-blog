@@ -1,0 +1,5 @@
+# Virtualenv Folders
+bin/
+include/
+lib/
+local/
